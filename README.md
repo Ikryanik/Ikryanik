@@ -13,6 +13,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="40"/>&nbsp;
    
+## My stat
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ikryanik&theme=github_dark" alt=""/>
 
 <!--
 - 🔭 I’m currently working on ...
