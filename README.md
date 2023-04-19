@@ -2,7 +2,7 @@
 
 ### About me
 - 🌱 Currently learning C#
-- 💬 My experience [CV](https://astrakhan.hh.ru/resume/e534ae4aff09da1bf80039ed1f37384c755659)
+- 💬 My experience [CV](https://astrakhan.hh.ru/applicant/resumes/view?resume=e534ae4aff09da1bf80039ed1f37384c755659)
 - 📫 Reach me by [email](mailto:yarovaya.eliza@gmail.com)
 
 ## Languages and Tools
