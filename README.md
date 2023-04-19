@@ -15,13 +15,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="40"/>&nbsp;
   
   
-<!--
+
 ## 👯 Yep, that's me. You're probably wondering how I got into this situation…
   
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ikryanik&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikryanik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ikryanik&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ikryanik&theme=github_dark" />
    
