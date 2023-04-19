@@ -1,11 +1,12 @@
 # Hello, I'm Beth
+<img src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif" width="200"/>
 
-### About me
+### 👩🏻‍💻About me
 - 🌱 Currently learning C#
 - 💬 My experience [CV](https://astrakhan.hh.ru/applicant/resumes/view?resume=e534ae4aff09da1bf80039ed1f37384c755659)
 - 📫 Reach me by [email](mailto:yarovaya.eliza@gmail.com)
 
-## Languages and Tools
+## 🎹 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />&nbsp;
 <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" title="c#" width="40" />&nbsp;
 <img src="https://img.icons8.com/color/512/microsoft-sql-server.png"  width="40" />&nbsp;
@@ -13,15 +14,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="40"/>&nbsp;
    
-## My stat
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ikryanik&theme=github_dark" alt=""/>
+## 👯 Yep, that's me. You're probably wondering how I got into this situation…
+<div align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ikryanik&theme=github_dark" />
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikryanik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ikryanik&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
