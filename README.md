@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif" width="200"/>
 
 ### 👩🏻‍💻About me
-- 🌱 Currently learning C#
+- 🌱 Currently learning C# and Angular
 - 💬 My experience [CV](https://astrakhan.hh.ru/applicant/resumes/view?resume=e534ae4aff09da1bf80039ed1f37384c755659)
 - 📫 Reach me by [email](mailto:yarovaya.eliza@gmail.com)
 
