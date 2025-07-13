@@ -10,6 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" title="c#" width="40" />&nbsp;
 <img src="https://img.icons8.com/color/512/microsoft-sql-server.png"  width="40" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png"  width="40" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png"  width="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="40"/>&nbsp;
